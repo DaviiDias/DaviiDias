@@ -50,7 +50,7 @@ I'm a tabletop RPG Game Master, where I get to create my own worlds and stories 
 ---
 
 <!-- Statistics Section -->
-<h2 align="center">Statistics</h2>
+## Statistics
 <table align="center" style="border:none">
   <tr>
     <td align="center" style="border:none">
