@@ -46,3 +46,26 @@ I'm a tabletop RPG Game Master, where I get to create my own worlds and stories 
 
 - [LinkedIn](https://www.linkedin.com/in/davigabrieldias/)
 - [Email](mailto:davigdias16@gmail.com)
+
+---
+
+## Statistics
+
+<table><tr>
+    <td>
+        <a href="https://github.com/stats-organization/github-stats-extended">
+            <div style="background:#0f1724;padding:12px;border-radius:12px;display:inline-block;">
+                <img src="https://github-stats-extended.vercel.app/api?username=DaviiDias&theme=transparent" alt="Davii's GitHub stats" />
+            </div>
+        </a>
+    </td>
+    <td>
+        <a href="https://github.com/stats-organization/github-stats-extended">
+            <div style="background:#0f1724;padding:12px;border-radius:12px;display:inline-block;margin-left:12px;">
+                <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaviiDias&layout=compact&theme=transparent" alt="Top Languages" />
+            </div>
+        </a>
+    </td>
+</tr></table>
+</div>
+
