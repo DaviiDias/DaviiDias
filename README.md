@@ -50,14 +50,16 @@ I'm a tabletop RPG Game Master, where I get to create my own worlds and stories 
 ---
 
 ## Statistics
-
 <div style="display:flex;gap:12px;justify-content:center;align-items:center;">
+<div>
 
 [![DaviiDias's GitHub stats](https://github-stats-extended.vercel.app/api?username=DaviiDias&show_icons=false&include_all_commits=true&theme=city_lights)](https://github-stats-extended.vercel.app/api?username=DaviiDias&show_icons=true&include_all_commits=true&theme=city_lights)
 
 <!-- [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DaviiDias&layout=donut&langs_count=4&theme=city_lights)](https://github-stats-extended.vercel.app/api/top-langs?username=DaviiDias&layout=donut&langs_count=4&theme=city_lights) -->
+</div>
+<div >
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DaviiDias&layout=compact&langs_count=4&theme=city_lights)](https://github-stats-extended.vercel.app/api/top-langs?username=DaviiDias&layout=compact&langs_count=4&theme=city_lights)
 
 </div>
-
+</div>
