@@ -66,20 +66,7 @@ I'm a tabletop RPG Game Master, where I get to create my own worlds and stories 
             </div>
         </a>
     </td>
-        <td style="border:none;padding:0;vertical-align:top;">
-            <a href="https://github.com/stats-organization/github-stats-extended">
-                <div style="background:#0f1724;padding:12px;border-radius:12px;display:inline-block;">
-                    <img src="https://stats-organization.github.io/github-stats-extended/api?username=DaviiDias&theme=transparent" alt="Davii's GitHub stats" />
-                </div>
-            </a>
-        </td>
-        <td style="border:none;padding:0;vertical-align:top;">
-            <a href="https://github.com/stats-organization/github-stats-extended">
-                <div style="background:#0f1724;padding:12px;border-radius:12px;display:inline-block;margin-left:12px;">
-                    <img src="https://stats-organization.github.io/github-stats-extended/api/top-langs/?username=DaviiDias&layout=compact&theme=transparent" alt="Top Languages" />
-                </div>
-            </a>
-        </td>
+
     </tr></table>
     </div>
 
