@@ -1,4 +1,4 @@
-<img src="./profile.png" width="200">
+<img src="./profile.png" width="100%" heigth="400px">
 
 **Desenvolvedor Front-end** com experiência em desenvolvimento de aplicações web, integração com APIs e criação de soluções voltadas para as necessidades do negócio.
 
