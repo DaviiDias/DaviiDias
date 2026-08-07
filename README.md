@@ -51,14 +51,14 @@ I'm a tabletop RPG Game Master, where I get to create my own worlds and stories 
 
 <!-- Statistics Section -->
 <h2 align="center">Statistics</h2>
-<table align="center">
+<table align="center" style="border:none">
   <tr>
-    <td align="center">
+    <td align="center" style="border:none">
       <a href="https://github-stats-extended.vercel.app/api?username=DaviiDias&show_icons=true&include_all_commits=true&theme=city_lights">
         <img src="https://github-stats-extended.vercel.app/api?username=DaviiDias&show_icons=false&include_all_commits=true&theme=city_lights" alt="DaviiDias's GitHub stats" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" style="border:none">
       <a href="https://github-stats-extended.vercel.app/api/top-langs?username=DaviiDias&layout=donut&langs_count=4&theme=city_lights">
         <img src="https://github-stats-extended.vercel.app/api/top-langs?username=DaviiDias&layout=donut&langs_count=4&theme=city_lights" alt="Top Languages" />
       </a>
