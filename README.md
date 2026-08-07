@@ -51,22 +51,11 @@ I'm a tabletop RPG Game Master, where I get to create my own worlds and stories 
 
 ## Statistics
 
-<table><tr>
-    <td>
-        <a href="https://github.com/stats-organization/github-stats-extended">
-            <div style="background:#0f1724;padding:12px;border-radius:12px;display:inline-block;">
-                <img src="https://github-stats-extended.vercel.app/api?username=DaviiDias&theme=transparent" alt="Davii's GitHub stats" />
-            </div>
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/stats-organization/github-stats-extended">
-            <div style="background:#0f1724;padding:12px;border-radius:12px;display:inline-block;margin-left:12px;">
-                <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DaviiDias&layout=compact&theme=transparent" alt="Top Languages" />
-            </div>
-        </a>
-    </td>
+<div style="display:flex;gap:12px;justify-content:center;align-items:center;">
 
-    </tr></table>
-    </div>
+[![DaviiDias's GitHub stats](https://github-stats-extended.vercel.app/api?username=DaviiDias&show_icons=true&include_all_commits=true&theme=city_lights)](https://github-stats-extended.vercel.app/api?username=DaviiDias&show_icons=true&include_all_commits=true&theme=city_lights)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=DaviiDias&layout=donut&langs_count=4&theme=city_lights)](https://github-stats-extended.vercel.app/api/top-langs?username=DaviiDias&layout=donut&langs_count=4&theme=city_lights)
+
+</div>
 
