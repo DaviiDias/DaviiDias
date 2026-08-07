@@ -49,8 +49,8 @@ I'm a tabletop RPG Game Master, where I get to create my own worlds and stories 
 
 ---
 
-<!-- Statistics Section -->
 ## Statistics
+
 <table align="center" style="border:none">
   <tr>
     <td align="center" style="border:none">
