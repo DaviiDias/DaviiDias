@@ -1,3 +1,5 @@
+<img src="./profile.png" width="200">
+
 **Desenvolvedor Front-end** com experiência em desenvolvimento de aplicações web, integração com APIs e criação de soluções voltadas para as necessidades do negócio.
 
 Atualmente, atuo como **Desenvolvedor Front-end na Blanes**, trabalhando principalmente com **JavaScript, TypeScript, React, HTML e CSS**.
