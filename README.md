@@ -1,25 +1,36 @@
 <img src="./profile.png" width="100%" heigth="400px">
 
-**Desenvolvedor Front-end** com experiência em desenvolvimento de aplicações web, integração com APIs e criação de soluções voltadas para as necessidades do negócio.
+---
 
-Atualmente, atuo como **Desenvolvedor Front-end na Blanes**, trabalhando principalmente com **JavaScript, TypeScript, React, HTML e CSS**.
+## About Me
 
-Anteriormente, atuei como **Estagiário de Desenvolvimento de Sistemas no Bradesco**, onde trabalhei com **PHP, SQL Server, consultas SQL e automação de processos**.
+I'm a Software Engineer with experience in web application development, corporate systems, and responsive interfaces. I contribute to the creation, maintenance, and evolution of digital solutions across the development lifecycle.
 
-### 🛠️ Tecnologias & Ferramentas
+My work focuses on building scalable, maintainable, and high-performance applications, using modern development practices, agile methodologies, Git, and AI-powered tools to improve engineering productivity and deliver business value.
 
-* **Front-end:** JavaScript, TypeScript, React, HTML, CSS
-* **Back-end:** PHP, Node.js, Python
-* **Banco de dados:** SQL Server, MySQL, SQL
-* **Ferramentas:** Git, GitHub, Docker, Figma
-* **Outros:** APIs REST, IA Generativa, Cloud
+I also have experience with Neo4j and graph databases, using Cypher for graph modeling and querying, with an interest in AI Engineering, knowledge graphs, and data-driven applications.
 
-### 📫 Contato
+---
 
-* **LinkedIn:** [seu LinkedIn]
-* **E-mail:** [seu e-mail]
-* **GitHub:** [seu GitHub]
+## Languages & Tools
 
+<!-- Your icons here -->
+
+---
+
+## A Bit About Me
+
+I love creating and building things, and that passion extends far beyond software. I'm passionate about music and playing guitar, and I also enjoy writing stories and poetry.
+
+I'm a tabletop RPG Game Master, where I get to create my own worlds and stories together with my friends. I'm also a big fan of video games, especially metroidvanias and indie games. When I'm not creating or playing, you'll probably find me reading comics or books.
+
+---
+
+## Let's Connect
+
+- LinkedIn
+- GitHub
+- Email
 <!--
 **DaviiDias/DaviiDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
