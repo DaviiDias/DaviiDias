@@ -1,4 +1,4 @@
-<img src="./profile.png" width="100%" heigth="400px">
+<img src="./profile.png" alt="Profile" width="100%" height="400" />
 
 ---
 
@@ -14,24 +14,23 @@ I also have experience with Neo4j and graph databases, using Cypher for graph mo
 
 ## Languages & Tools
 
-<!-- Your icons here -->
-<body>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />    
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysqlmysql-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4jneo4j-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-originalsvg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubgithub-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jirajira-original-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figmafigma-original.svg" />
-## </body>
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="MSSQL" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" alt="Neo4j" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" alt="Jira" width="26" /> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="26" />
+</p>
 
 ## A Bit About Me
 
@@ -43,5 +42,5 @@ I'm a tabletop RPG Game Master, where I get to create my own worlds and stories 
 
 ## Let's Chat
 
-- LinkedIn : https://www.linkedin.com/in/davigabrieldias/
-- Email : davigdias16@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/davigabrieldias/)
+- [Email](mailto:davigdias16@gmail.com)
